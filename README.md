@@ -1,4 +1,8 @@
-# React component wrapper for [Mathquill](http://mathquill.com/)
+# FORK: React component wrapper for [Mathquill](http://mathquill.com/)
+
+** THIS IS NOT A FORK OF THE ORIGINAL REPO **
+
+This is a fork of [Strarry1's fork](https://github.com/Stratty1/react-mathquill) that adds React 18 support. I made another fork to deploy it to NPM, so we can use it at our Hackathon's [MathGPT](https://github.com/hackathon-group-301/mathgpt).
 
 [![npm version](https://badge.fury.io/js/react-mathquill.svg)](https://badge.fury.io/js/react-mathquill)
 

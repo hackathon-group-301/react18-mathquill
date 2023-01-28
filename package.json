@@ -1,10 +1,10 @@
 {
   "name": "react18-mathquill",
   "version": "1.0.1",
-  "description": "React component wrapper for Mathquill",
+  "description": "React component wrapper for Mathquill - forked to ",
   "main": "index.js",
   "typings": "index.d.ts",
-  "repository": "git@github.com:viktorstrate/react-mathquill.git",
+  "repository": "git@github.com:hackathon-group-301/react18-mathquill.git",
   "author": "viktorstrate <viktorstrate@gmail.com>",
   "license": "MIT",
   "private": false,
